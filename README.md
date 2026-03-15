@@ -33,7 +33,7 @@ Used Python with Pandas for:
 - Regional sales aggregation
 
 ## Tableau Dashboard
-![Dashboard](Dashboard Screenshot.png)
+![Dashboard](Dashboard_Screenshot.png)
 
 Created an interactive dashboard with:
 - Monthly Sales Trend
