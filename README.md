@@ -34,6 +34,7 @@ Used Python with Pandas for:
 
 ## Tableau Dashboard
 ![Dashboard](Dashboard Screenshot.png)
+
 Created an interactive dashboard with:
 - Monthly Sales Trend
 - Sales by Region
