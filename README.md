@@ -33,7 +33,7 @@ Used Python with Pandas for:
 - Regional sales aggregation
 
 ## Tableau Dashboard
-![Dashboard](tableau/dashboard.png)
+![Dashboard](Dashboard.png)
 Created an interactive dashboard with:
 - Monthly Sales Trend
 - Sales by Region
@@ -41,9 +41,10 @@ Created an interactive dashboard with:
 - Top 10 Products
 
 ## Key Insights
-- West region generated the highest sales.
-- Technology category contributed major revenue.
-- Top 10 products drive a large portion of total sales.
+• West region generated the highest revenue  
+• Technology category contributed most sales  
+• Top 10 products drive significant revenue  
+• Sales increase during the final quarter
 
 ## Author
-Shiva Kumar
+Shiva Kumar Devatha
